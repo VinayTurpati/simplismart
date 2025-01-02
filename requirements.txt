@@ -1,0 +1,11 @@
+Flask==2.1.1
+Werkzeug==2.1.1
+Flask-SQLAlchemy==2.5.1
+SQLAlchemy==1.4.41
+python-dotenv==0.19.2
+redis==4.1.0
+PyJWT==2.3.0
+Flask-JWT-Extended==4.3.1
+marshmallow==3.23.2
+pytest-mock==3.14.0
+python-redis-lock==4.0.0
